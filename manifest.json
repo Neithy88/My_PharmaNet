@@ -1,0 +1,18 @@
+{
+    "name": "AlexandraM - Pharma_Net",
+    "short_name": "Pharma_Net",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "fffff0",
+    "description": "L'app utile pour vos recherches Pharmaceutiques",
+    "icons": [
+        {
+          "src": "public/images/logoapp.svg",
+          "sizes": "48x48"
+        },
+        {
+          "src": "public/images/logoapp.svg",
+          "sizes": "72x72 96x96 128x128 256x256 512x512"
+        }
+      ]
+}

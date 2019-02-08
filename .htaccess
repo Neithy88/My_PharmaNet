@@ -1,0 +1,3 @@
+
+RewriteEngine On
+RewriteRule ^index\.php$ https://alexandram.promo-24.codeur.online/Pharma_net [QSA,L,R=301]
